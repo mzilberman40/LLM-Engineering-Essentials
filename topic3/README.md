@@ -14,6 +14,8 @@
 
   Additional reading: [**Text encoders**](https://nebius-academy.github.io/knowledge-base/text-encoders/)
 
+  Additional reading: [**Databases in AI development: a practical guide**](https://nebius-academy.github.io/knowledge-base/databases-a-practical-guide/)
+
 * **3.3. Advanced RAG components** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic3/3.3_advanced_rag_components.ipynb)
 
   Implement two types of two-stage RAG pipelines - one with a reranking step after retrieval and another compining vector and graph databases. Explore Hierarchical Navigable Small World - the nearest neighbour search algorithm used in most of today's vector databases.
