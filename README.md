@@ -2,7 +2,7 @@
 
 **🗣️ On June 11, join our What Powers Today’s Image Generation webinar. Gain insights from Roman Suvorov — an ML engineer at Recraft AI and a co-author of the advanced Recraft V3!**
 
-[👉Join the session](v)
+[👉 Join the session](v)
 
 ## 📌 Quick start
 
