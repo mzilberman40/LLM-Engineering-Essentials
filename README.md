@@ -1,8 +1,8 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-**🗣️ On June 4, join our next expert-led Q&A session — part of a weekly series. Ask questions and get feedback directly from course lecturers and mentors!**
+**🗣️ On June 11, join our What Powers Today’s Image Generation webinar. Gain insights from Roman Suvorov — an ML engineer at Recraft AI and a co-author of the advanced Recraft V3!**
 
-[👉 Join the session](https://nebius.zoom.us/webinar/register/WN_IKfl3tFURqCIku6C9x2wAw#/registration)
+[👉Join the session](v)
 
 ## 📌 Quick start
 
