@@ -1,9 +1,5 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-**🗣️ On June 11, join our What Powers Today’s Image Generation webinar. Gain insights from Roman Suvorov — an ML engineer at Recraft AI and a co-author of the advanced Recraft V3!**
-
-[👉 Join the session](https://nebius.zoom.us/webinar/register/WN_XsCwXJUxRV6M8qJe_MeXDA#/registration)
-
 ## 📌 Quick start
 
 Get hands-on with LLM APIs and self-hosted models as you code, experiment, and build your own platform for custom AI-powered NPCs.
