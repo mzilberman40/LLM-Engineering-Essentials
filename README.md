@@ -1,5 +1,11 @@
 # LLM Engineering Essentials course by Nebius Academy
 
+**How do you build multi-agent systems using open standards? On June 25, we’re going to find out!**
+
+**Nebius Academy is hosting a live, expert-led Building Multi-Agent Systems with Open Standards webinar with Rod Rivera, DevRel at Jentic, AI Product Engineer, Professor of AI at ITAM, and an influencer.**
+
+👉[Join the webinar](https://nebius.zoom.us/webinar/register/WN_um7T4Gl6RJGcF-GKRo5Aig#/registration)
+
 ## 📌 Quick start
 
 Get hands-on with LLM APIs and self-hosted models as you code, experiment, and build your own platform for custom AI-powered NPCs.
