@@ -11,10 +11,15 @@
   Start by the videos by [Tatiana Gaintseva](https://www.linkedin.com/in/tgaintseva/) to understand the overall transformer structure and the QKV attention:
 
   **[1. Seq2seq](https://youtu.be/z-pebP9NuC4)**
+  
   **[2. Attention Mechanism](https://youtu.be/e-xQKzi2Hxc)**
+  
   **[3a. Transformer Encoder Architecture](https://youtu.be/u_hxAuShuZQ)**
+  
   **[3b. Multi-head attention and positional encoding](https://youtu.be/eoQTzGi1BkQ)**
+  
   **[3c. Transformer decoder](https://youtu.be/W4nJnW9R3IE)**
+  
   **[3d. QKV attention](https://youtu.be/1oMAF55sRls)**
 
   Continue with the [**long read telling about the state-of-the-art of transformer components**](https://nebius-academy.github.io/knowledge-base/transformer-architectures/).
