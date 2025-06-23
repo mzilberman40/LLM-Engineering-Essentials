@@ -1,10 +1,16 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-**How do you build multi-agent systems using open standards? On June 25, we’re going to find out!**
+## 📹 Join our online event!
+
+How do you build multi-agent systems using open standards? **On June 25**, we’re going to find out!
 
 **Nebius Academy is hosting a live, expert-led Building Multi-Agent Systems with Open Standards webinar with Rod Rivera, DevRel at Jentic, AI Product Engineer, Professor of AI at ITAM, and an influencer.**
 
 👉[Join the webinar](https://nebius.zoom.us/webinar/register/WN_um7T4Gl6RJGcF-GKRo5Aig#/registration)
+
+You'll learn:
+✔️ How to create agentic workflows that are not only machine-readable and testable — but also easy to understand.
+✔️ How open standards like OpenAPI and Arazzo help design, orchestrate, and maintain complex AI systems.
 
 ## 📌 Quick start
 
