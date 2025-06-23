@@ -14,6 +14,10 @@ You'll learn:
 
 ✔️ How open standards like OpenAPI and Arazzo help design, orchestrate, and maintain complex AI systems.
 
+Want to stay updated on future events?
+
+👉[Subscribe to our calendar](https://qrco.de/nagoocal)
+
 # 🎓 What is this course about?
 
 ## 📌 Quick start
