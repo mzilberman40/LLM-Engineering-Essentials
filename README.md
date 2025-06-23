@@ -18,7 +18,7 @@ Want to stay updated on future events?
 
 👉[Subscribe to our calendar](https://qrco.de/nagoocal)
 
-📚
+&nbsp;
 
 # 🎓 What is this course about?
 
