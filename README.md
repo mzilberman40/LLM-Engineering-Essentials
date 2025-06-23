@@ -1,6 +1,6 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-## 📹 Join our online event!
+## 📹 Join us online
 
 How do you build multi-agent systems using open standards? **On June 25**, we’re going to find out!
 
