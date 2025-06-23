@@ -14,6 +14,8 @@ You'll learn:
 
 ✔️ How open standards like OpenAPI and Arazzo help design, orchestrate, and maintain complex AI systems.
 
+# 🎓 What this course is about?
+
 ## 📌 Quick start
 
 Get hands-on with LLM APIs and self-hosted models as you code, experiment, and build your own platform for custom AI-powered NPCs.
