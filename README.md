@@ -1,6 +1,6 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-# 📹 Our events — join us online
+# 📹 Our event calendar — join online
 
 How do you build multi-agent systems using open standards? **On June 25**, we’re going to find out!
 
@@ -14,7 +14,7 @@ You'll learn:
 
 ✔️ How open standards like OpenAPI and Arazzo help design, orchestrate, and maintain complex AI systems.
 
-# 🎓 What this course is about?
+# 🎓 What is this course about?
 
 ## 📌 Quick start
 
