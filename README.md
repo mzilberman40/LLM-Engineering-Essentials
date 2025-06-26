@@ -1,8 +1,26 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-**🗣️ On June 11, join our What Powers Today’s Image Generation webinar. Gain insights from Roman Suvorov — an ML engineer at Recraft AI and a co-author of the advanced Recraft V3!**
+## 📹 Our event calendar — join online
 
-[👉 Join the session](https://nebius.zoom.us/webinar/register/WN_XsCwXJUxRV6M8qJe_MeXDA#/registration)
+How do you build multi-agent systems using open standards? **On June 25**, we’re going to find out!
+
+**Nebius Academy is hosting a live, expert-led Building Multi-Agent Systems with Open Standards webinar with Rod Rivera, DevRel at Jentic, AI Product Engineer, Professor of AI at ITAM, and an influencer.**
+
+👉[Join the webinar](https://nebius.zoom.us/webinar/register/WN_um7T4Gl6RJGcF-GKRo5Aig#/registration)
+
+You'll learn:
+
+✔️ How to create agentic workflows that are not only machine-readable and testable — but also easy to understand.
+
+✔️ How open standards like OpenAPI and Arazzo help design, orchestrate, and maintain complex AI systems.
+
+Want to stay updated on future events?
+
+👉[Subscribe to our calendar](https://qrco.de/nagoocal)
+
+&nbsp;
+
+# 🎓 What is this course about?
 
 ## 📌 Quick start
 
