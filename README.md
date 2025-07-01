@@ -2,7 +2,7 @@
 
 ## 📹 Our event calendar — join Q&A sessions and webinars
 
-On our next expert-led webinar, we’ll take a closer look at self-deployed LLMs. Ask what came up while working through the topic!
+On our next expert-led webinar, we’ll take a closer look at self-deployed LLMs.
 
 You’re also welcome to bring your questions about LLM APIs — or anything else from the course you’d like to dig into further.
 
