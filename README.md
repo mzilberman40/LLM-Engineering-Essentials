@@ -6,6 +6,7 @@ On our next expert-led webinar, we’ll take a closer look at self-deployed LLMs
 
 Come curious — our team is here to help!
 
+⏰ July 2, 7 PM CET
 👉[Join the webinar](https://nebius.zoom.us/webinar/register/WN_jdtZAPbQSASDB4kkFpJtNA)
 
 Want to stay updated on future events?
