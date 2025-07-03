@@ -34,9 +34,9 @@
 
 * [**LLM Inference Essentials**](https://nebius-academy.github.io/knowledge-base/llm-inference-essentials/)
 
-  Check this long read to 
+  Check this long read to start looking at LLM inference from an AI engineer's point of view, understanding inference metrics and efficiency issues. And here is a demonstration notebook:
 
-  A demonstration notebook will be here soon!
+  **4.3. LLM Inference Metrics** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic4/4.3_llm_inference_metrics.ipynb)
 
 ## Project part: using an open-source LLM in your service
 
