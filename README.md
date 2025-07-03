@@ -44,7 +44,7 @@ RAG and its technicalities; vector stores, databases in production. RAG evaluati
 
 **Project**: Adding RAG to the NPC Factory service.
 
-### Topic 4️⃣ Self-Served LLMs
+### [Topic 4️⃣ Self-Deployed LLMs](https://github.com/Nebius-Academy/LLM-Engineering-Essentials/tree/main/topic4)
 	
 Working with open source LLMs and practical LLM inference in production. Computational and memory bottlenecks of LLM inference.
 
