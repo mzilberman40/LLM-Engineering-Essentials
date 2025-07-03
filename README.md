@@ -2,6 +2,20 @@
 
 ## 📹 Our event calendar — join Q&A sessions and webinars
 
+You’re invited to our free webinar, *Software Engineering Agents Under the Hood: Way More Than Just LLMs*, where we’ll take a closer look at OpenAI’s Codex, Google’s Jules, and other SWE agents — and the way they’re built.
+
+**Simon Karasik, Applied Infrastructure team lead at Nebius AI R&D**, will walk you through:
+
+🎓 What SWE agents are made of — and how you can build your own
+🎓 How to evaluate SWE agents
+🎓 Real-world challenges we face when running large-scale research on SWE agents
+
+Save the date!
+
+⏰ July 9, 7 PM CET
+
+👉[Join the webinar](https://nebius.zoom.us/webinar/register/5617515441147/WN_jhaJ6OsSRT-FNyLfxiHp9A)
+
 Want to stay updated on future events?
 
 👉[Subscribe to our calendar](https://qrco.de/nagoocal)
