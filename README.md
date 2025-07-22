@@ -1,18 +1,6 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-## 📹 Our event calendar — join online
-
-How do you build multi-agent systems using open standards? **On June 25**, we’re going to find out!
-
-**Nebius Academy is hosting a live, expert-led Building Multi-Agent Systems with Open Standards webinar with Rod Rivera, DevRel at Jentic, AI Product Engineer, Professor of AI at ITAM, and an influencer.**
-
-👉[Join the webinar](https://nebius.zoom.us/webinar/register/WN_um7T4Gl6RJGcF-GKRo5Aig#/registration)
-
-You'll learn:
-
-✔️ How to create agentic workflows that are not only machine-readable and testable — but also easy to understand.
-
-✔️ How open standards like OpenAPI and Arazzo help design, orchestrate, and maintain complex AI systems.
+## 📹 Our event calendar — join Q&A sessions and webinars
 
 Want to stay updated on future events?
 
@@ -56,7 +44,7 @@ RAG and its technicalities; vector stores, databases in production. RAG evaluati
 
 **Project**: Adding RAG to the NPC Factory service.
 
-### Topic 4️⃣ Self-Served LLMs
+### [Topic 4️⃣ Self-Deployed LLMs](https://github.com/Nebius-Academy/LLM-Engineering-Essentials/tree/main/topic4)
 	
 Working with open source LLMs and practical LLM inference in production. Computational and memory bottlenecks of LLM inference.
 
