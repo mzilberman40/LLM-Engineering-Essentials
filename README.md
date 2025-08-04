@@ -7,8 +7,11 @@ You’re invited to our free webinar, *Evaluating LLMs in the Wild: Practical Ap
 **Emeli Dral and Elena Samuylova, co-founders of Evidently AI** and the authors of [these comprehensive materials on evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/), will walk you through how to:
 
 🎓 Frame meaningful evaluation goals for generative and agentic workflows
+
 🎓 Combine automatic and human-in-the-loop methods
+
 🎓 Design regression tests and define observability signals that scale
+
 🎓 Avoid the most common pitfalls when shipping LLMs in production
 
 Save the date!
