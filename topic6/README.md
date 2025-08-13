@@ -12,6 +12,6 @@
 
 **Practice, by Michael Chertushkin**
 
-  * [SFT](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic6/6.1_intro_to_model_tuning.ipynb)
+  * [Intro and SFT](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic6/6.1_intro_to_model_tuning.ipynb)
   * [DPO](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic6/6.2_model_tuning_with_dpo.ipynb)
   * RLHF
