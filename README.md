@@ -2,25 +2,6 @@
 
 ## 📹 Our event calendar — join Q&A sessions and webinars
 
-You’re invited to our free webinar, *Evaluating LLMs in the Wild: Practical Approaches to Testing and Observability*, where we’ll break down practical strategies for evaluating and monitoring LLM-powered systems.
-
-**Emeli Dral and Elena Samuylova, co-founders of Evidently AI** and the authors of [these comprehensive materials on evaluation](https://nebius-academy.github.io/knowledge-base/evaluation-1-basics/), will walk you through how to:
-
-🎓 Frame meaningful evaluation goals for generative and agentic workflows
-
-🎓 Combine automatic and human-in-the-loop methods
-
-🎓 Design regression tests and define observability signals that scale
-
-🎓 Avoid the most common pitfalls when shipping LLMs in production
-
-Save the date!
-
-⏰ August 6, 7 PM CET
-
-👉[Join the webinar](https://nebius.com/events/evaluating-llms-wild-practical-approaches-testing-observability)
-
-
 Want to stay updated on future events?
 
 👉[Subscribe to our calendar](https://qrco.de/nagoocal)
